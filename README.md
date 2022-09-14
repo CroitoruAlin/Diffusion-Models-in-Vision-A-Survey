@@ -55,16 +55,24 @@ This repository categorizes the papers about diffusion models, applied in comput
  23. [VAEs meet Diffusion Models: Efficient and High-Fidelity Generation](https://arxiv.org/abs/2201.00308)
  24. [Pseudo Numerical Methods for Diffusion Models on Manifolds](https://arxiv.org/abs/2202.09778)
  25. [{Dynamic Dual-Output Diffusion Models](https://openaccess.thecvf.com/content/CVPR2022/papers/Benny_Dynamic_Dual-Output_Diffusion_Models_CVPR_2022_paper.pdf)
+ 26. [Generating High Fidelity Data from Low-density Regions using Diffusion Models](https://openaccess.thecvf.com/content/CVPR2022/papers/Sehwag_Generating_High_Fidelity_Data_From_Low-Density_Regions_Using_Diffusion_Models_CVPR_2022_paper.pdf)
+ 27. [Perception Prioritized Training of Diffusion Models](https://openaccess.thecvf.com/content/CVPR2022/papers/Choi_Perception_Prioritized_Training_of_Diffusion_Models_CVPR_2022_paper.pdf)
+ 28. [Variational diffusion models](https://arxiv.org/pdf/2107.00630.pdf)
 ### Conditional Generation <a name="2"></a>
   1. [Diffusion models beat gans on image synthesis](https://openreview.net/pdf?id=AAWuCvzaVt)
   2. [D2C: Diffusion-Decoding Models for Few-Shot Conditional Generation](https://proceedings.neurips.cc/paper/2021/file/682e0e796084e163c5ca053dd8573b0c-Paper.pdf)
   3. [Classifier-Free Diffusion Guidance](https://openreview.net/pdf?id=qw8AKxfYbI)
   4. [More control for free! Image synthesis with semantic diffusion guidance](https://arxiv.org/abs/2112.05744)
+  5. [Cascaded Diffusion Models for High Fidelity Image Generation](https://www.jmlr.org/papers/volume23/21-0635/21-0635.pdf)
 ### Text-to-Image generation <a name="3"></a>
+  1. [Hierarchical text-conditional image generation with CLIP latents](https://arxiv.org/pdf/2204.06125.pdf)
+  2. [Vector quantized diffusion model for text-to-image synthesis](https://openaccess.thecvf.com/content/CVPR2022/papers/Gu_Vector_Quantized_Diffusion_Model_for_Text-to-Image_Synthesis_CVPR_2022_paper.pdf)
+  3. [Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding](https://arxiv.org/pdf/2205.11487.pdf)
 ### Super-Resolution <a name="4"></a>
   1. [Image super-resolution via iterative refinement](https://arxiv.org/abs/2104.07636)
 ### Image Editing<a name="5"></a>
 ### Region Image Editing <a name="6"></a>
+  1. [Blended diffusion for text-driven editing of natural images](https://openaccess.thecvf.com/content/CVPR2022/papers/Avrahami_Blended_Diffusion_for_Text-Driven_Editing_of_Natural_Images_CVPR_2022_paper.pdf)
 ### Inpainting <a name="7"></a>
   1. [GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models](https://arxiv.org/pdf/2112.10741.pdf)
   2. [RePaint: Inpainting using Denoising Diffusion Probabilistic Models](https://openaccess.thecvf.com/content/CVPR2022/papers/Lugmayr_RePaint_Inpainting_Using_Denoising_Diffusion_Probabilistic_Models_CVPR_2022_paper.pdf)
@@ -77,11 +85,19 @@ This repository categorizes the papers about diffusion models, applied in comput
   4. [Learning Energy-Based Models by Diffusion Recovery Likelihood](https://arxiv.org/pdf/2012.08125.pdf)
   5. [Conditional image generation with score-based diffusion models](https://arxiv.org/abs/2111.13606)
   6. [Global Context with Discrete Diffusion in Vector Quantised Modelling for Image Generation](https://arxiv.org/pdf/2112.01799.pdf)
+  7. [High-Resolution Image Synthesis with Latent Diffusion Models](https://openaccess.thecvf.com/content/CVPR2022/papers/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.pdf)
+  8. [Diffusion Autoencoders: Toward a Meaningful and Decodable Representation](https://openaccess.thecvf.com/content/CVPR2022/papers/Preechakul_Diffusion_Autoencoders_Toward_a_Meaningful_and_Decodable_Representation_CVPR_2022_paper.pdf)
+  9. [Come-Closer-Diffuse-Faster: Accelerating Conditional Diffusion Models for Inverse Problems through Stochastic Contraction](https://openaccess.thecvf.com/content/CVPR2022/papers/Chung_Come-Closer-Diffuse-Faster_Accelerating_Conditional_Diffusion_Models_for_Inverse_Problems_Through_Stochastic_CVPR_2022_paper.pdf)
+ 10. [DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation](https://openaccess.thecvf.com/content/CVPR2022/papers/Kim_DiffusionCLIP_Text-Guided_Diffusion_Models_for_Robust_Image_Manipulation_CVPR_2022_paper.pdf)
 ### Medical Image-to-Image Translation <a name="11"></a>
 ### Medical Image Generation <a name="12"></a>
 ### Medical Image Segmentation <a name="13"></a>
 ### Medical Image Anomaly Detection <a name="14"></a>
 ### Video Generation <a name="15"></a>
+  1. [Video Diffusion Models](https://arxiv.org/pdf/2204.03458.pdf)
+  2. [Diffusion Probabilistic Modeling for Video Generation](https://arxiv.org/pdf/2203.09481.pdf)
+  3. [Flexible Diffusion Modeling of Long Videos](https://arxiv.org/pdf/2205.11495.pdf)
+  4. [Diffusion Models for Video Prediction and Infilling](https://arxiv.org/pdf/2206.07696.pdf)
 ### Few-Shot Image Generation <a name="16"></a>
 ### Counterfactual Explanations <a name="17"></a>
   1. [Diffusion Models for Counterfactual Explanations](https://arxiv.org/abs/2203.15636)
