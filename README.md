@@ -30,6 +30,7 @@ This repository categorizes the papers about diffusion models, applied in comput
 ## Content
 
 ### Unconditional Generation <a name="1"></a>
+  1.[Deep unsupervised learning using non-equilibrium thermodynamics](https://arxiv.org/abs/1503.03585)
 ### Conditional Generation <a name="2"></a>
 ### Text-to-Image generation <a name="3"></a>
 ### Super-Resolution <a name="4"></a>
