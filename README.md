@@ -2,7 +2,7 @@
 This repository categorizes the papers about diffusion models, applied in computer vision, according to their target task. The classifcation is based on our survey [Diffusion Models in Vision: A Survey](https://arxiv.org/abs/2209.04747v1)
 
 ## Summary
-### [Unconditional Generation](unconditional-generation)
+### [Unconditional Generation](#unconditional-generation)
 ### [Conditional Generation](#2)
 ### [Text-to-Image generation ](#3)
 ### [Super-Resolution ](#4)
