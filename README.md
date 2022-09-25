@@ -19,7 +19,7 @@ This repository categorizes the papers about diffusion models, applied in comput
 14. [Medical Image Anomaly Detection](#14)
 15. [Video Generation](#15)
 16. [Few-Shot Image Generation ](#16)
-17. [Counterfactual Explanations ](#17)
+17. [Counterfactual Explanations and Estimations](#17)
 18. [Image Restoration](#18)
 19. [Image Registration](#19)
 20. [Adversarial Purification](#20)
@@ -143,6 +143,7 @@ This repository categorizes the papers about diffusion models, applied in comput
   1. [Diffusion Models for Medical Anomaly Detection](https://arxiv.org/pdf/2203.04306.pdf)
   2. [Fast Unsupervised Brain Anomaly Detection and Segmentation with Diffusion Models](https://arxiv.org/pdf/2206.03461.pdf)
   3. [AnoDDPM: Anomaly Detection With Denoising Diffusion Probabilistic Models Using Simplex Noise](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Wyatt_AnoDDPM_Anomaly_Detection_With_Denoising_Diffusion_Probabilistic_Models_Using_Simplex_CVPRW_2022_paper.pdf)
+  4. [What is Healthy? Generative Counterfactual Diffusion for Lesion Localization](https://arxiv.org/pdf/2207.12268.pdf)
 ### Video Generation <a name="15"></a>
   1. [Video Diffusion Models](https://arxiv.org/pdf/2204.03458.pdf)
   2. [Diffusion Probabilistic Modeling for Video Generation](https://arxiv.org/pdf/2203.09481.pdf)
@@ -150,8 +151,9 @@ This repository categorizes the papers about diffusion models, applied in comput
   4. [Diffusion Models for Video Prediction and Infilling](https://arxiv.org/pdf/2206.07696.pdf)
 ### Few-Shot Image Generation <a name="16"></a>
   1. [Few-Shot Diffusion Models](https://arxiv.org/abs/2205.15463)
-### Counterfactual Explanations <a name="17"></a>
+### Counterfactual Explanations and Estimations <a name="17"></a>
   1. [Diffusion Models for Counterfactual Explanations](https://arxiv.org/pdf/2203.15636.pdf)
+  2. [Diffusion Causal Models for Counterfactual Estimation](https://proceedings.mlr.press/v177/sanchez22a/sanchez22a.pdf)
 ### Image Restoration <a name="18"></a>
   1. [Restoring Vision in Adverse Weather Conditions with Patch-Based Denoising Diffusion Models](https://arxiv.org/pdf/2207.14626.pdf)
   2. [Denoising Diffusion Restoration Models](https://arxiv.org/pdf/2201.11793.pdf)
