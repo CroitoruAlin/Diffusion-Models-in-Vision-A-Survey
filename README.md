@@ -1,4 +1,4 @@
-# Diffusion-Models-in-Vision-A-Survey
+# Diffusion Models in Vision: A Survey
 This repository categorizes the papers about diffusion models, applied in computer vision, according to their target task. The classifcation is based on our survey [Diffusion Models in Vision: A Survey](https://arxiv.org/pdf/2209.04747v1.pdf)
 
 ## Summary
