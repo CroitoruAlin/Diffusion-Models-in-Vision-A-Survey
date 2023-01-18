@@ -92,6 +92,7 @@ Denoising diffusion models represent a recent emerging topic in computer vision,
   6. [Text-Guided Synthesis of Artistic Images with Retrieval-Augmented Diffusion Models](https://arxiv.org/pdf/2207.13038.pdf)
   7. [Text2Human: Text-Driven Controllable Human Image Generation](https://arxiv.org/pdf/2205.15996.pdf)
   8. [DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation](https://arxiv.org/pdf/2208.12242.pdf)
+  9. [SpaText: Spatio-Textual Representation for Controllable Image Generation](https://arxiv.org/pdf/2211.14305.pdf)
 ### Super-Resolution <a name="4"></a>
   1. [Image super-resolution via iterative refinement](https://arxiv.org/pdf/2104.07636.pdf)
   2. [Score-based Generative Neural Networks for Large-Scale Optimal Transport](https://arxiv.org/pdf/2110.03237.pdf)
@@ -135,11 +136,13 @@ Denoising diffusion models represent a recent emerging topic in computer vision,
 ### Medical Image-to-Image Translation <a name="11"></a>
   1. [Unsupervised Medical Image Translation with Adversarial Diffusion Models](https://arxiv.org/pdf/2207.08208.pdf)
   2. [Unsupervised Denoising of Retinal OCT with Diffusion Probabilistic Model](https://arxiv.org/pdf/2201.11760.pdf)
+  3. [Conversion Between CT and MRI Images Using Diffusion and Score-Matching Models](https://arxiv.org/pdf/2209.12104.pdf)
 ### Medical Image Generation <a name="12"></a>
   1. [Solving inverse problems in medical imaging with score-based generative models](https://arxiv.org/pdf/2111.08005.pdf)
   2. [Score-based diffusion models for accelerated MRI](https://arxiv.org/pdf/2110.05243.pdf)
 ### Medical Image Segmentation <a name="13"></a>
   1. [Diffusion Models for Implicit Image Segmentation Ensembles](https://arxiv.org/pdf/2112.03145.pdf)
+  2. [Accelerating Diffusion Models via Pre-segmentation Diffusion Sampling for Medical Image Segmentation](https://arxiv.org/pdf/2210.17408.pdf)
 ### Medical Image Anomaly Detection <a name="14"></a>
   1. [Diffusion Models for Medical Anomaly Detection](https://arxiv.org/pdf/2203.04306.pdf)
   2. [Fast Unsupervised Brain Anomaly Detection and Segmentation with Diffusion Models](https://arxiv.org/pdf/2206.03461.pdf)
