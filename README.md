@@ -28,6 +28,9 @@ Denoising diffusion models represent a recent emerging topic in computer vision,
 23. [Classification](#23)
 24. [Point Cloud Generation](#24)
 25. [Theoretical](#25)
+26. [Graphs](#26)
+27. [Deblurring](#27)
+28. [Face Morphing Attack Detection](#28)
 
 ## Content
 
