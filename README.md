@@ -64,6 +64,7 @@ Denoising diffusion models represent a recent emerging topic in computer vision,
  30. [On Analyzing Generative and Denoising Capabilities of Diffusion-based Deep Generative Models](https://arxiv.org/abs/2206.00070)
  31. [Diffusion-GAN: Training GANs with Diffusion](https://arxiv.org/abs/2206.02262)
  32. [Accelerating Score-based Generative Models for High-Resolution Image Synthesis](https://arxiv.org/abs/2206.04029)
+ 33. [Soft Diffusion: Score Matching for General Corruptions](https://arxiv.org/pdf/2209.05442.pdf)
 ### Conditional Generation <a name="2"></a>
   1. [Diffusion models beat gans on image synthesis](https://openreview.net/pdf?id=AAWuCvzaVt)
   2. [Classifier-Free Diffusion Guidance](https://openreview.net/pdf?id=qw8AKxfYbI)
@@ -93,6 +94,7 @@ Denoising diffusion models represent a recent emerging topic in computer vision,
   7. [Text2Human: Text-Driven Controllable Human Image Generation](https://arxiv.org/pdf/2205.15996.pdf)
   8. [DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation](https://arxiv.org/pdf/2208.12242.pdf)
   9. [SpaText: Spatio-Textual Representation for Controllable Image Generation](https://arxiv.org/pdf/2211.14305.pdf)
+  10. [MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation](https://arxiv.org/pdf/2302.08113.pdf)
 ### Super-Resolution <a name="4"></a>
   1. [Image super-resolution via iterative refinement](https://arxiv.org/pdf/2104.07636.pdf)
   2. [Score-based Generative Neural Networks for Large-Scale Optimal Transport](https://arxiv.org/pdf/2110.03237.pdf)
@@ -111,9 +113,11 @@ Denoising diffusion models represent a recent emerging topic in computer vision,
   4. [Pretraining is All You Need for Image-to-Image Translation](https://arxiv.org/pdf/2205.12952.pdf)
   5. [VQBB: Image-to-image Translation with Vector Quantized Brownian Bridge](https://arxiv.org/pdf/2205.07680.pdf)
   6. [The Swiss Army Knife for Image-to-Image Translation: Multi-Task Diffusion Models](https://arxiv.org/pdf/2204.02641.pdf)
+  7. [Unifying Diffusion Models' Latent Space, with Applications to CycleDiffusion and Guidance](https://arxiv.org/pdf/2210.05559.pdf)
 ### Image Segmentation <a name="9"></a>
   1. [Label-Efficient Semantic Segmentation with Diffusion Models](https://arxiv.org/abs/2112.03126)
   2. [SegDiff: Image Segmentation with Diffusion Probabilistic Models](https://arxiv.org/pdf/2112.00390.pdf)
+  3. [Multi-Class Segmentation from Aerial Views using Recursive Noise Diffusion](https://arxiv.org/pdf/2212.00787.pdf)
 ### Multi-Task <a name="10"></a>
   1. [Generative modeling by estimating gradients of the data distribution](https://arxiv.org/pdf/1907.05600.pdf)
   2. [Score-Based Generative Modeling through Stochastic Differential Equations](https://arxiv.org/pdf/2011.13456.pdf)
@@ -141,6 +145,8 @@ Denoising diffusion models represent a recent emerging topic in computer vision,
 ### Medical Image Generation <a name="12"></a>
   1. [Solving inverse problems in medical imaging with score-based generative models](https://arxiv.org/pdf/2111.08005.pdf)
   2. [Score-based diffusion models for accelerated MRI](https://arxiv.org/pdf/2110.05243.pdf)
+  3. [DIFFUSION MODELS FOR MEDICAL IMAGE ANALYSIS: A COMPREHENSIVE SURVEY](https://arxiv.org/pdf/2211.07804.pdf)
+  4. [Low-Dose CT Using Denoising Diffusion Probabilistic Model for 20× Speedup](https://arxiv.org/pdf/2209.15136.pdf)
 ### Medical Image Segmentation <a name="13"></a>
   1. [Diffusion Models for Implicit Image Segmentation Ensembles](https://arxiv.org/pdf/2112.03145.pdf)
   2. [Accelerating Diffusion Models via Pre-segmentation Diffusion Sampling for Medical Image Segmentation](https://arxiv.org/pdf/2210.17408.pdf)
@@ -154,6 +160,7 @@ Denoising diffusion models represent a recent emerging topic in computer vision,
   2. [Diffusion Probabilistic Modeling for Video Generation](https://arxiv.org/pdf/2203.09481.pdf)
   3. [Flexible Diffusion Modeling of Long Videos](https://arxiv.org/pdf/2205.11495.pdf)
   4. [Diffusion Models for Video Prediction and Infilling](https://arxiv.org/pdf/2206.07696.pdf)
+  5. [Dreamix: Video Diffusion Models are General Video Editors](https://arxiv.org/pdf/2302.01329.pdf)
 ### Few-Shot Image Generation <a name="16"></a>
   1. [Few-Shot Diffusion Models](https://arxiv.org/abs/2205.15463)
 ### Counterfactual Explanations and Estimations <a name="17"></a>
@@ -162,6 +169,7 @@ Denoising diffusion models represent a recent emerging topic in computer vision,
 ### Image Restoration <a name="18"></a>
   1. [Restoring Vision in Adverse Weather Conditions with Patch-Based Denoising Diffusion Models](https://arxiv.org/pdf/2207.14626.pdf)
   2. [Denoising Diffusion Restoration Models](https://arxiv.org/pdf/2201.11793.pdf)
+  3. [Diffusion in the Dark: A Diffusion Model for Low-Light Text Recognition](https://arxiv.org/pdf/2303.04291.pdf)
 ### Image Registration <a name="19"></a>
   1. [DiffuseMorph: Unsupervised Deformable Image Registration Along Continuous Trajectory Using Diffusion Models](https://arxiv.org/pdf/2112.05149.pdf)
 ### Adversarial Purification <a name="20"></a>
@@ -172,7 +180,16 @@ Denoising diffusion models represent a recent emerging topic in computer vision,
   1. [3D shape generation and completion through point-voxel diffusion](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhou_3D_Shape_Generation_and_Completion_Through_Point-Voxel_Diffusion_ICCV_2021_paper.pdf)
 ### Classification <a name="23"></a>
   1. [Score-based generative classifiers](https://arxiv.org/pdf/2110.00473.pdf)
+  2. [Diffusion-based Data Augmentation for Skin Disease Classification: Impact Across Original Medical Datasets to Fully Synthetic Images](https://arxiv.org/pdf/2301.04802.pdf)
 ### Point Cloud Generation <a name="24"></a>
   1. [Diffusion Probabilistic Models for 3D Point Cloud Generation](https://openaccess.thecvf.com/content/CVPR2021/papers/Luo_Diffusion_Probabilistic_Models_for_3D_Point_Cloud_Generation_CVPR_2021_paper.pdf)
 ### Theoretical <a name="25"></a>
   1. [A variational perspective on diffusion-based generative models and score matching](https://proceedings.neurips.cc/paper/2021/file/c11abfd29e4d9b4d4b566b01114d8486-Paper.pdf)
+  2. [Sampling is as easy as learning the score: theory for diffusion models with minimal data assumptions](https://arxiv.org/pdf/2209.11215.pdf)
+### Graphs <a name="26"></a>
+  1. [Generative Diffusion Models on Graphs: Methods and Applications](https://arxiv.org/pdf/2302.02591.pdf)
+### Deblurring <a name="27"></a>
+  1. [Image Deblurring with Domain Generalizable Diffusion Models](https://arxiv.org/pdf/2212.01789.pdf)
+### Face Morphing Attack Detection <a name="28"></a>
+  1. [Face Morphing Attack Detection with Denoising Diffusion Probabilistic Models](https://lmi.fe.uni-lj.si/wp-content/uploads/2023/03/IWBF2023_Morphing.pdf)
+
