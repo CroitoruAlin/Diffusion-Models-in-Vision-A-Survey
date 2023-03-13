@@ -133,6 +133,7 @@ Denoising diffusion models represent a recent emerging topic in computer vision,
   16. [Accelerating Diffusion Models via Early Stop of the Diffusion Process](https://arxiv.org/abs/2205.12524)
   17. [Diffusion Models as Plug-and-Play Priors](https://arxiv.org/pdf/2206.09012.pdf)
   18. [Non-Uniform Diffusion Models](https://arxiv.org/pdf/2207.09786.pdf)
+  19. [Diffusion Probabilistic Model Made Slim](https://arxiv.org/pdf/2211.17106.pdf)
 ### Medical Image-to-Image Translation <a name="11"></a>
   1. [Unsupervised Medical Image Translation with Adversarial Diffusion Models](https://arxiv.org/pdf/2207.08208.pdf)
   2. [Unsupervised Denoising of Retinal OCT with Diffusion Probabilistic Model](https://arxiv.org/pdf/2201.11760.pdf)
