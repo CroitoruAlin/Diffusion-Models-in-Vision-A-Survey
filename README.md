@@ -148,7 +148,7 @@ Denoising diffusion models represent a recent emerging topic in computer vision,
 ### Medical Image Generation <a name="12"></a>
   1. [Solving inverse problems in medical imaging with score-based generative models](https://arxiv.org/pdf/2111.08005.pdf)
   2. [Score-based diffusion models for accelerated MRI](https://arxiv.org/pdf/2110.05243.pdf)
-  3. [DIFFUSION MODELS FOR MEDICAL IMAGE ANALYSIS: A COMPREHENSIVE SURVEY](https://arxiv.org/pdf/2211.07804.pdf)
+  3. [Diffusion Models For Medical Image Analysis: A Comprehensive Survey](https://arxiv.org/pdf/2211.07804.pdf)
   4. [Low-Dose CT Using Denoising Diffusion Probabilistic Model for 20× Speedup](https://arxiv.org/pdf/2209.15136.pdf)
 ### Medical Image Segmentation <a name="13"></a>
   1. [Diffusion Models for Implicit Image Segmentation Ensembles](https://arxiv.org/pdf/2112.03145.pdf)
