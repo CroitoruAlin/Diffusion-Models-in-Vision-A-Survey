@@ -164,6 +164,7 @@ Denoising diffusion models represent a recent emerging topic in computer vision,
   3. [Flexible Diffusion Modeling of Long Videos](https://arxiv.org/pdf/2205.11495.pdf)
   4. [Diffusion Models for Video Prediction and Infilling](https://arxiv.org/pdf/2206.07696.pdf)
   5. [Dreamix: Video Diffusion Models are General Video Editors](https://arxiv.org/pdf/2302.01329.pdf)
+  6. [Conditional Image-to-Video Generation with Latent Flow Diffusion Models](https://arxiv.org/pdf/2303.13744.pdf)
 ### Few-Shot Image Generation <a name="16"></a>
   1. [Few-Shot Diffusion Models](https://arxiv.org/abs/2205.15463)
 ### Counterfactual Explanations and Estimations <a name="17"></a>
