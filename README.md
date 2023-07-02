@@ -31,6 +31,9 @@ Denoising diffusion models represent a recent emerging topic in computer vision,
 26. [Graphs](#26)
 27. [Deblurring](#27)
 28. [Face Morphing Attack Detection](#28)
+29. [Trajectory prediction](#29)
+30. [Attacks](#30)
+31. [Study on  data memorization](#31)
 
 ## Content
 
@@ -68,6 +71,10 @@ Denoising diffusion models represent a recent emerging topic in computer vision,
  31. [Diffusion-GAN: Training GANs with Diffusion](https://arxiv.org/abs/2206.02262)
  32. [Accelerating Score-based Generative Models for High-Resolution Image Synthesis](https://arxiv.org/abs/2206.04029)
  33. [Soft Diffusion: Score Matching for General Corruptions](https://arxiv.org/pdf/2209.05442.pdf)
+ 34. [Post-Training Quantization on Diffusion Models](https://openaccess.thecvf.com/content/CVPR2023/papers/Shang_Post-Training_Quantization_on_Diffusion_Models_CVPR_2023_paper.pdf)
+ 35. [Lookahead Diffusion Probabilistic Models for Refining Mean Estimation](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Lookahead_Diffusion_Probabilistic_Models_for_Refining_Mean_Estimation_CVPR_2023_paper.pdf)
+ 36. [https://openaccess.thecvf.com/content/CVPR2023/papers/Phung_Wavelet_Diffusion_Models_Are_Fast_and_Scalable_Image_Generators_CVPR_2023_paper.pdf](https://openaccess.thecvf.com/content/CVPR2023/papers/Phung_Wavelet_Diffusion_Models_Are_Fast_and_Scalable_Image_Generators_CVPR_2023_paper.pdf)
+
 ### Conditional Generation <a name="2"></a>
   1. [Diffusion models beat gans on image synthesis](https://openreview.net/pdf?id=AAWuCvzaVt)
   2. [Classifier-Free Diffusion Guidance](https://openreview.net/pdf?id=qw8AKxfYbI)
@@ -87,6 +94,18 @@ Denoising diffusion models represent a recent emerging topic in computer vision,
   16. [A Continuous Time Framework for Discrete Denoising Models](https://arxiv.org/abs/2205.14987)
   17. [DPM-Solver: A Fast ODE Solver for Diffusion Probabilistic Model Sampling in Around 10 Steps](https://arxiv.org/abs/2206.00927)
   18. [Compositional Visual Generation with Composable Diffusion Models](https://arxiv.org/pdf/2206.01714.pdf)
+  19. [TryOnDiffusion: A Tale of Two UNets] (https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_TryOnDiffusion_A_Tale_of_Two_UNets_CVPR_2023_paper.pdf)
+  20. [High-Fidelity Guided Image Synthesis with Latent Diffusion Models](https://openaccess.thecvf.com/content/CVPR2023/papers/Singh_High-Fidelity_Guided_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2023_paper.pdf)
+  21. [Unite and Conquer: Plug & Play Multi-Modal Synthesis using Diffusion Models](https://openaccess.thecvf.com/content/CVPR2023/papers/Nair_Unite_and_Conquer_Plug__Play_Multi-Modal_Synthesis_Using_Diffusion_CVPR_2023_paper.pdf)
+  22. [Towards Practical Plug-and-Play Diffusion Models](https://openaccess.thecvf.com/content/CVPR2023/papers/Go_Towards_Practical_Plug-and-Play_Diffusion_Models_CVPR_2023_paper.pdf)
+  23. [Inversion-based Style Transfer with Diffusion Models](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Inversion-Based_Style_Transfer_With_Diffusion_Models_CVPR_2023_paper.pdf)
+  24. [Conditional Text Image Generation with Diffusion Models](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_Conditional_Text_Image_Generation_With_Diffusion_Models_CVPR_2023_paper.pdf)
+  25. [High-resolution image reconstruction with latent diffusion models from human
+brain activity](https://openaccess.thecvf.com/content/CVPR2023/papers/Takagi_High-Resolution_Image_Reconstruction_With_Latent_Diffusion_Models_From_Human_Brain_CVPR_2023_paper.pdf)
+26. [Generative Diffusion Prior for Unified Image Restoration and Enhancement](https://openaccess.thecvf.com/content/CVPR2023/papers/Fei_Generative_Diffusion_Prior_for_Unified_Image_Restoration_and_Enhancement_CVPR_2023_paper.pdf)
+27. [DCFace: Synthetic Face Generation With Dual Condition Diffusion Model](https://openaccess.thecvf.com/content/CVPR2023/papers/Kim_DCFace_Synthetic_Face_Generation_With_Dual_Condition_Diffusion_Model_CVPR_2023_paper.pdf)
+29. [Controllable Light Diffusion for Portraits](https://openaccess.thecvf.com/content/CVPR2023/papers/Futschik_Controllable_Light_Diffusion_for_Portraits_CVPR_2023_paper.pdf)
+
 ### Text-to-Image generation <a name="3"></a>
   1. [Vector quantized diffusion model for text-to-image synthesis](https://openaccess.thecvf.com/content/CVPR2022/papers/Gu_Vector_Quantized_Diffusion_Model_for_Text-to-Image_Synthesis_CVPR_2022_paper.pdf)
   2. [Hierarchical text-conditional image generation with CLIP latents](https://arxiv.org/pdf/2204.06125.pdf)
@@ -98,17 +117,32 @@ Denoising diffusion models represent a recent emerging topic in computer vision,
   8. [DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation](https://arxiv.org/pdf/2208.12242.pdf)
   9. [SpaText: Spatio-Textual Representation for Controllable Image Generation](https://arxiv.org/pdf/2211.14305.pdf)
   10. [MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation](https://arxiv.org/pdf/2302.08113.pdf)
+  11. [Person Image Synthesis via Denoising Diffusion Model](https://openaccess.thecvf.com/content/CVPR2023/papers/Bhunia_Person_Image_Synthesis_via_Denoising_Diffusion_Model_CVPR_2023_paper.pdf)
+  12. [Uncovering the Disentanglement Capability in Text-to-Image Diffusion Models](https://openaccess.thecvf.com/content/CVPR2023/papers/Wu_Uncovering_the_Disentanglement_Capability_in_Text-to-Image_Diffusion_Models_CVPR_2023_paper.pdf)
+  13. [Multi-Concept Customization of Text-to-Image Diffusion](https://openaccess.thecvf.com/content/CVPR2023/papers/Kumari_Multi-Concept_Customization_of_Text-to-Image_Diffusion_CVPR_2023_paper.pdf)
+  14. [ERNIE-ViLG 2.0: Improving Text-to-Image Diffusion Model with Knowledge-Enhanced Mixture-of-Denoising-Experts](https://openaccess.thecvf.com/content/CVPR2023/papers/Feng_ERNIE-ViLG_2.0_Improving_Text-to-Image_Diffusion_Model_With_Knowledge-Enhanced_Mixture-of-Denoising-Experts_CVPR_2023_paper.pdf)
+  15. [Shifted Diffusion for Text-to-image Generation](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhou_Shifted_Diffusion_for_Text-to-Image_Generation_CVPR_2023_paper.pdf)
+  16. [Specialist Diffusion: Plug-and-Play Sample-Efficient Fine-Tuning of Text-to-Image Diffusion Models To Learn Any Unseen Style](Specialist Diffusion: Plug-and-Play Sample-Efficient Fine-Tuning of Text-to-Image Diffusion Models to Learn Any Unseen Style)
 ### Super-Resolution <a name="4"></a>
   1. [Image super-resolution via iterative refinement](https://arxiv.org/pdf/2104.07636.pdf)
   2. [Score-based Generative Neural Networks for Large-Scale Optimal Transport](https://arxiv.org/pdf/2110.03237.pdf)
+  3. [Implicit Diffusion Models for Continuous Super-Resolution](https://openaccess.thecvf.com/content/CVPR2023/papers/Gao_Implicit_Diffusion_Models_for_Continuous_Super-Resolution_CVPR_2023_paper.pdf)
+  4. [](https://openaccess.thecvf.com/content/CVPR2023/papers/Lu_Specialist_Diffusion_Plug-and-Play_Sample-Efficient_Fine-Tuning_of_Text-to-Image_Diffusion_Models_To_CVPR_2023_paper.pdf)
 ### Image Editing<a name="5"></a>
   1. [SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations](https://arxiv.org/abs/2108.01073)
   2. [Blended Latent Diffusion](https://arxiv.org/pdf/2206.02779.pdf)
+  3. [SINE: SINgle Image Editing with Text-to-Image Diffusion Models (https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_SINE_SINgle_Image_Editing_With_Text-to-Image_Diffusion_Models_CVPR_2023_paper.pdf)
+  4. [Imagic: Text-Based Real Image Editing with Diffusion Models](https://openaccess.thecvf.com/content/CVPR2023/papers/Kawar_Imagic_Text-Based_Real_Image_Editing_With_Diffusion_Models_CVPR_2023_paper.pdf)
+  5. [Collaborative Diffusion for Multi-Modal Face Generation and Editing](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Collaborative_Diffusion_for_Multi-Modal_Face_Generation_and_Editing_CVPR_2023_paper.pdf)
+  6. [Null-text Inversion for Editing Real Images using Guided Diffusion Models](https://openaccess.thecvf.com/content/CVPR2023/papers/Mokady_NULL-Text_Inversion_for_Editing_Real_Images_Using_Guided_Diffusion_Models_CVPR_2023_paper.pdf)
+  7. [DiffusionRig: Learning Personalized Priors for Facial Appearance Editing](https://openaccess.thecvf.com/content/CVPR2023/papers/Ding_DiffusionRig_Learning_Personalized_Priors_for_Facial_Appearance_Editing_CVPR_2023_paper.pdf)
+  8. [RenderDiffusion: Image Diffusion for 3D Reconstruction, Inpainting and Generation] (https://openaccess.thecvf.com/content/CVPR2023/papers/Anciukevicius_RenderDiffusion_Image_Diffusion_for_3D_Reconstruction_Inpainting_and_Generation_CVPR_2023_paper.pdf)
 ### Region Image Editing <a name="6"></a>
   1. [Blended diffusion for text-driven editing of natural images](https://openaccess.thecvf.com/content/CVPR2022/papers/Avrahami_Blended_Diffusion_for_Text-Driven_Editing_of_Natural_Images_CVPR_2022_paper.pdf)
 ### Inpainting <a name="7"></a>
   1. [GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models](https://arxiv.org/pdf/2112.10741.pdf)
   2. [RePaint: Inpainting using Denoising Diffusion Probabilistic Models](https://openaccess.thecvf.com/content/CVPR2022/papers/Lugmayr_RePaint_Inpainting_Using_Denoising_Diffusion_Probabilistic_Models_CVPR_2022_paper.pdf)
+  3. [RGBD2: Generative Scene Synthesis via Incremental View Inpainting using RGBD Diffusion Models] (https://openaccess.thecvf.com/content/CVPR2023/papers/Lei_RGBD2_Generative_Scene_Synthesis_via_Incremental_View_Inpainting_Using_RGBD_CVPR_2023_paper.pdf)
 ### Image-to-Image Translation <a name="8"></a>
   1. [Palette: Image-to-Image Diffusion Models](https://arxiv.org/pdf/2111.05826.pdf)
   2. [UNIT-DDPM: UNpaired Image Translation with Denoising Diffusion Probabilistic Models](https://arxiv.org/pdf/2104.05358.pdf)
@@ -117,10 +151,13 @@ Denoising diffusion models represent a recent emerging topic in computer vision,
   5. [VQBB: Image-to-image Translation with Vector Quantized Brownian Bridge](https://arxiv.org/pdf/2205.07680.pdf)
   6. [The Swiss Army Knife for Image-to-Image Translation: Multi-Task Diffusion Models](https://arxiv.org/pdf/2204.02641.pdf)
   7. [Unifying Diffusion Models' Latent Space, with Applications to CycleDiffusion and Guidance](https://arxiv.org/pdf/2210.05559.pdf)
+  8. [BBDM: Image-to-Image Translation with Brownian Bridge Diffusion Models](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_BBDM_Image-to-Image_Translation_With_Brownian_Bridge_Diffusion_Models_CVPR_2023_paper.pdf)
+  9. [Plug-and-Play Diffusion Features for Text-Driven Image-to-Image Translation](https://openaccess.thecvf.com/content/CVPR2023/papers/Tumanyan_Plug-and-Play_Diffusion_Features_for_Text-Driven_Image-to-Image_Translation_CVPR_2023_paper.pdf)
 ### Image Segmentation <a name="9"></a>
   1. [Label-Efficient Semantic Segmentation with Diffusion Models](https://arxiv.org/abs/2112.03126)
   2. [SegDiff: Image Segmentation with Diffusion Probabilistic Models](https://arxiv.org/pdf/2112.00390.pdf)
   3. [Multi-Class Segmentation from Aerial Views using Recursive Noise Diffusion](https://arxiv.org/pdf/2212.00787.pdf)
+  4. [Ambiguous Medical Image Segmentation using Diffusion Models](https://openaccess.thecvf.com/content/CVPR2023/papers/Rahman_Ambiguous_Medical_Image_Segmentation_Using_Diffusion_Models_CVPR_2023_paper.pdf)
 ### Multi-Task <a name="10"></a>
   1. [Generative modeling by estimating gradients of the data distribution](https://arxiv.org/pdf/1907.05600.pdf)
   2. [Score-Based Generative Modeling through Stochastic Differential Equations](https://arxiv.org/pdf/2011.13456.pdf)
@@ -141,6 +178,9 @@ Denoising diffusion models represent a recent emerging topic in computer vision,
   17. [Diffusion Models as Plug-and-Play Priors](https://arxiv.org/pdf/2206.09012.pdf)
   18. [Non-Uniform Diffusion Models](https://arxiv.org/pdf/2207.09786.pdf)
   19. [Diffusion Probabilistic Model Made Slim](https://arxiv.org/pdf/2211.17106.pdf)
+  20. [Open-Vocabulary Panoptic Segmentation with Text-to-Image Diffusion Models](https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_Open-Vocabulary_Panoptic_Segmentation_With_Text-to-Image_Diffusion_Models_CVPR_2023_paper.pdf)
+  21. [On Distillation of Guided Diffusion Model](https://openaccess.thecvf.com/content/CVPR2023/papers/Meng_On_Distillation_of_Guided_Diffusion_Models_CVPR_2023_paper.pdf)
+  22. [DiffCollage: Parallel Generation of Large Content With Diffusion Models](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_DiffCollage_Parallel_Generation_of_Large_Content_With_Diffusion_Models_CVPR_2023_paper.pd)
 ### Medical Image-to-Image Translation <a name="11"></a>
   1. [Unsupervised Medical Image Translation with Adversarial Diffusion Models](https://arxiv.org/pdf/2207.08208.pdf)
   2. [Unsupervised Denoising of Retinal OCT with Diffusion Probabilistic Model](https://arxiv.org/pdf/2201.11760.pdf)
@@ -165,6 +205,10 @@ Denoising diffusion models represent a recent emerging topic in computer vision,
   4. [Diffusion Models for Video Prediction and Infilling](https://arxiv.org/pdf/2206.07696.pdf)
   5. [Dreamix: Video Diffusion Models are General Video Editors](https://arxiv.org/pdf/2302.01329.pdf)
   6. [Conditional Image-to-Video Generation with Latent Flow Diffusion Models](https://arxiv.org/pdf/2303.13744.pdf)
+  7. [Diffusion Video Autoencoders: Toward Temporally Consistent Face Video Editing via Disentangled Video Encoding](https://openaccess.thecvf.com/content/CVPR2023/papers/Kim_Diffusion_Video_Autoencoders_Toward_Temporally_Consistent_Face_Video_Editing_via_CVPR_2023_paper.pdf)
+  8. [DiffTalk: Crafting Diffusion Models for Generalized Audio-Driven Portraits Animation](https://openaccess.thecvf.com/content/CVPR2023/papers/Shen_DiffTalk_Crafting_Diffusion_Models_for_Generalized_Audio-Driven_Portraits_Animation_CVPR_2023_paper.pdf)
+  9. [MM-Diffusion: Learning Multi-Modal Diffusion Models for Joint Audio and Video Generation](https://openaccess.thecvf.com/content/CVPR2023/papers/Ruan_MM-Diffusion_Learning_Multi-Modal_Diffusion_Models_for_Joint_Audio_and_Video_CVPR_2023_paper.pdf)
+  10. [VideoFusion: Decomposed Diffusion Models for High-Quality Video Generation](https://openaccess.thecvf.com/content/CVPR2023/papers/Luo_VideoFusion_Decomposed_Diffusion_Models_for_High-Quality_Video_Generation_CVPR_2023_paper.pdf)
 ### Few-Shot Image Generation <a name="16"></a>
   1. [Few-Shot Diffusion Models](https://arxiv.org/abs/2205.15463)
 ### Counterfactual Explanations and Estimations <a name="17"></a>
@@ -180,8 +224,14 @@ Denoising diffusion models represent a recent emerging topic in computer vision,
   1. [Diffusion Models for Adversarial Purification](https://arxiv.org/pdf/2205.07460.pdf)
 ### Semantic Image Generation <a name="21"></a>
   1. [Semantic Image Synthesis via Diffusion Models](https://arxiv.org/pdf/2207.00050.pdf)
-### Shape Generation and Completion <a name="22"></a>
+### 3D Generation <a name="22"></a>
   1. [3D shape generation and completion through point-voxel diffusion](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhou_3D_Shape_Generation_and_Completion_Through_Point-Voxel_Diffusion_ICCV_2021_paper.pdf)
+  2. [RODIN: A Generative Model for Sculpting 3D Digital Avatars Using Diffusion](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_RODIN_A_Generative_Model_for_Sculpting_3D_Digital_Avatars_Using_CVPR_2023_paper.pdf)
+  3. [Avatars Grow Legs: Generating Smooth Human Motion from Sparse Tracking Inputs with Diffusion Model](https://openaccess.thecvf.com/content/CVPR2023/papers/Du_Avatars_Grow_Legs_Generating_Smooth_Human_Motion_From_Sparse_Tracking_CVPR_2023_paper.pdf)
+  4. [NeuralField-LDM: Scene Generation with Hierarchical Latent Diffusion Models](https://openaccess.thecvf.com/content/CVPR2023/papers/Kim_NeuralField-LDM_Scene_Generation_With_Hierarchical_Latent_Diffusion_Models_CVPR_2023_paper.pdf)
+  5. [Diffusion-SDF: Text-to-Shape via Voxelized Diffusion](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Diffusion-SDF_Text-To-Shape_via_Voxelized_Diffusion_CVPR_2023_paper.pdf)
+  6. [Score Jacobian Chaining: Lifting Pretrained 2D Diffusion Models for 3D Generation](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Score_Jacobian_Chaining_Lifting_Pretrained_2D_Diffusion_Models_for_3D_CVPR_2023_paper.pdf)
+  7. [DATID-3D: Diversity-Preserved Domain Adaptation Using Text-to-Image Diffusion for 3D Generative Model](https://openaccess.thecvf.com/content/CVPR2023/papers/Kim_DCFace_Synthetic_Face_Generation_With_Dual_Condition_Diffusion_Model_CVPR_2023_paper.pdf)
 ### Classification <a name="23"></a>
   1. [Score-based generative classifiers](https://arxiv.org/pdf/2110.00473.pdf)
   2. [Diffusion-based Data Augmentation for Skin Disease Classification: Impact Across Original Medical Datasets to Fully Synthetic Images](https://arxiv.org/pdf/2301.04802.pdf)
@@ -196,4 +246,13 @@ Denoising diffusion models represent a recent emerging topic in computer vision,
   1. [Image Deblurring with Domain Generalizable Diffusion Models](https://arxiv.org/pdf/2212.01789.pdf)
 ### Face Morphing Attack Detection <a name="28"></a>
   1. [Face Morphing Attack Detection with Denoising Diffusion Probabilistic Models](https://lmi.fe.uni-lj.si/wp-content/uploads/2023/03/IWBF2023_Morphing.pdf)
+### Trajectory Prediction <a nav="29"></a>
+  1. [Leapfrog Diffusion Model for Stochastic Trajectory Prediction](https://openaccess.thecvf.com/content/CVPR2023/papers/Mao_Leapfrog_Diffusion_Model_for_Stochastic_Trajectory_Prediction_CVPR_2023_paper.pdf)
+### Attacks <a nav="30"></a>
+  1. [How to Backdoor Diffusion Models?](https://openaccess.thecvf.com/content/CVPR2023/papers/Chou_How_to_Backdoor_Diffusion_Models_CVPR_2023_paper.pdf)
+  2. [TrojDiff: Trojan Attacks on Diffusion Models with Diverse Targets](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_TrojDiff_Trojan_Attacks_on_Diffusion_Models_With_Diverse_Targets_CVPR_2023_paper.pdf)
+### Study on  data memorization <a nav="31"></a>
+  1.[Diffusion Art or Digital Forgery? Investigating Data Replication in Diffusion Models](https://openaccess.thecvf.com/content/CVPR2023/papers/Somepalli_Diffusion_Art_or_Digital_Forgery_Investigating_Data_Replication_in_Diffusion_CVPR_2023_paper.pdf)
+
+
 
