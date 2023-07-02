@@ -94,7 +94,7 @@ Denoising diffusion models represent a recent emerging topic in computer vision,
   16. [A Continuous Time Framework for Discrete Denoising Models](https://arxiv.org/abs/2205.14987)
   17. [DPM-Solver: A Fast ODE Solver for Diffusion Probabilistic Model Sampling in Around 10 Steps](https://arxiv.org/abs/2206.00927)
   18. [Compositional Visual Generation with Composable Diffusion Models](https://arxiv.org/pdf/2206.01714.pdf)
-  19. [TryOnDiffusion: A Tale of Two UNets] (https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_TryOnDiffusion_A_Tale_of_Two_UNets_CVPR_2023_paper.pdf)
+  19. [TryOnDiffusion: A Tale of Two UNets](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_TryOnDiffusion_A_Tale_of_Two_UNets_CVPR_2023_paper.pdf)
   20. [High-Fidelity Guided Image Synthesis with Latent Diffusion Models](https://openaccess.thecvf.com/content/CVPR2023/papers/Singh_High-Fidelity_Guided_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2023_paper.pdf)
   21. [Unite and Conquer: Plug & Play Multi-Modal Synthesis using Diffusion Models](https://openaccess.thecvf.com/content/CVPR2023/papers/Nair_Unite_and_Conquer_Plug__Play_Multi-Modal_Synthesis_Using_Diffusion_CVPR_2023_paper.pdf)
   22. [Towards Practical Plug-and-Play Diffusion Models](https://openaccess.thecvf.com/content/CVPR2023/papers/Go_Towards_Practical_Plug-and-Play_Diffusion_Models_CVPR_2023_paper.pdf)
