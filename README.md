@@ -89,6 +89,8 @@ Denoising diffusion models represent a recent emerging topic in computer vision,
 38. [Diffusion Probabilistic Model Made Slim](https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_Diffusion_Probabilistic_Model_Made_Slim_CVPR_2023_paper.pdf)
 39. [Masked Diffusion Transformer is a Strong Image Synthesizer](https://openaccess.thecvf.com/content/ICCV2023/papers/Gao_Masked_Diffusion_Transformer_is_a_Strong_Image_Synthesizer_ICCV_2023_paper.pdf)
 40. [DiffFit: Unlocking Transferability of Large Diffusion Models via Simple Parameter-efficient Fine-Tuning](https://openaccess.thecvf.com/content/ICCV2023/papers/Xie_DiffFit_Unlocking_Transferability_of_Large_Diffusion_Models_via_Simple_Parameter-efficient_ICCV_2023_paper.pdf)
+41. [simple diffusion: End-to-end diffusion for high resolution images](https://proceedings.mlr.press/v202/hoogeboom23a/hoogeboom23a.pdf)
+42. [Refining Generative Process with Discriminator Guidance in Score-based Diffusion Models](https://openreview.net/pdf?id=K1OvMEYEI4)
 ### Conditional Generation <a name="2"></a>
   1. [Diffusion models beat gans on image synthesis](https://openreview.net/pdf?id=AAWuCvzaVt)
   2. [Classifier-Free Diffusion Guidance](https://openreview.net/pdf?id=qw8AKxfYbI)
@@ -132,6 +134,7 @@ Layout-to-image Generation](https://openaccess.thecvf.com/content/CVPR2023/paper
   39. [Controllable Person Image Synthesis with Pose-Constrained Latent Diffusion](https://openaccess.thecvf.com/content/ICCV2023/papers/Han_Controllable_Person_Image_Synthesis_with_Pose-Constrained_Latent_Diffusion_ICCV_2023_paper.pdf)
   40. [DiffDreamer: Towards Consistent Unsupervised Single-view Scene Extrapolation with Conditional Diffusion Models](https://openaccess.thecvf.com/content/ICCV2023/papers/Cai_DiffDreamer_Towards_Consistent_Unsupervised_Single-view_Scene_Extrapolation_with_Conditional_Diffusion_ICCV_2023_paper.pdf)
   41. [TF-ICON: Diffusion-Based Training-Free Cross-Domain Image Composition](https://openaccess.thecvf.com/content/ICCV2023/papers/Lu_TF-ICON_Diffusion-Based_Training-Free_Cross-Domain_Image_Composition_ICCV_2023_paper.pdf)
+  42. [DISCRETE CONTRASTIVE DIFFUSION FOR CROSSMODAL MUSIC AND IMAGE GENERATION](https://openreview.net/pdf?id=1-MBdJssZ-S)
 ### Text-to-Image generation <a name="3"></a>
   1. [Vector quantized diffusion model for text-to-image synthesis](https://openaccess.thecvf.com/content/CVPR2022/papers/Gu_Vector_Quantized_Diffusion_Model_for_Text-to-Image_Synthesis_CVPR_2022_paper.pdf)
   2. [Hierarchical text-conditional image generation with CLIP latents](https://arxiv.org/pdf/2204.06125.pdf)
@@ -162,6 +165,8 @@ Layout-to-image Generation](https://openaccess.thecvf.com/content/CVPR2023/paper
   27. [DiffCloth: Diffusion Based Garment Synthesis and Manipulation via Structural Cross-modal Semantic Alignment](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_DiffCloth_Diffusion_Based_Garment_Synthesis_and_Manipulation_via_Structural_Cross-modal_ICCV_2023_paper.pdf)
   28. [LAW-Diffusion: Complex Scene Generation by Diffusion with Layouts](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_LAW-Diffusion_Complex_Scene_Generation_by_Diffusion_with_Layouts_ICCV_2023_paper.pdf)
   29. [Discriminative Class Tokens for Text-to-Image Diffusion Models](https://openaccess.thecvf.com/content/ICCV2023/papers/Schwartz_Discriminative_Class_Tokens_for_Text-to-Image_Diffusion_Models_ICCV_2023_paper.pdf)
+  30. [Cones: Concept Neurons in Diffusion Models for Customized Generation](https://proceedings.mlr.press/v202/liu23j/liu23j.pdf)
+  31. [MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation](https://proceedings.mlr.press/v202/bar-tal23a/bar-tal23a.pdf)
 ### Super-Resolution <a name="4"></a>
   1. [Image super-resolution via iterative refinement](https://arxiv.org/pdf/2104.07636.pdf)
   2. [Score-based Generative Neural Networks for Large-Scale Optimal Transport](https://arxiv.org/pdf/2110.03237.pdf)
@@ -192,6 +197,7 @@ Layout-to-image Generation](https://openaccess.thecvf.com/content/CVPR2023/paper
   3. [RGBD2: Generative Scene Synthesis via Incremental View Inpainting using RGBD Diffusion Models] (https://openaccess.thecvf.com/content/CVPR2023/papers/Lei_RGBD2_Generative_Scene_Synthesis_via_Incremental_View_Inpainting_Using_RGBD_CVPR_2023_paper.pdf)
   4.[SmartBrush: Text and Shape Guided Object Inpainting With Diffusion Model](https://openaccess.thecvf.com/content/CVPR2023/papers/Xie_SmartBrush_Text_and_Shape_Guided_Object_Inpainting_With_Diffusion_Model_CVPR_2023_paper.pdf)
   5. [DINAR: Diffusion Inpainting of Neural Textures for One-Shot Human Avatars](https://openaccess.thecvf.com/content/ICCV2023/papers/Svitov_DINAR_Diffusion_Inpainting_of_Neural_Textures_for_One-Shot_Human_Avatars_ICCV_2023_paper.pdf)
+  6. [Towards Coherent Image Inpainting Using Denoising Diffusion Implicit Models](https://proceedings.mlr.press/v202/zhang23q/zhang23q.pdf)
 ### Image-to-Image Translation <a name="8"></a>
   1. [Palette: Image-to-Image Diffusion Models](https://arxiv.org/pdf/2111.05826.pdf)
   2. [UNIT-DDPM: UNpaired Image Translation with Denoising Diffusion Probabilistic Models](https://arxiv.org/pdf/2104.05358.pdf)
@@ -205,6 +211,7 @@ Layout-to-image Generation](https://openaccess.thecvf.com/content/CVPR2023/paper
   10. [Zero-Shot Contrastive Loss for Text-Guided Diffusion Image Style Transfer](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_Zero-Shot_Contrastive_Loss_for_Text-Guided_Diffusion_Image_Style_Transfer_ICCV_2023_paper.pdf)
   11. [StyleDiffusion: Controllable Disentangled Style Transfer via Diffusion Models](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_StyleDiffusion_Controllable_Disentangled_Style_Transfer_via_Diffusion_Models_ICCV_2023_paper.pdf)
   12. [Diffusion-based Image Translation with Label Guidance for Domain Adaptive Semantic Segmentation](https://openaccess.thecvf.com/content/ICCV2023/papers/Peng_Diffusion-based_Image_Translation_with_Label_Guidance_for_Domain_Adaptive_Semantic_ICCV_2023_paper.pdf)
+  13. [Dual Diffusion Implicit Bridges for Image-to-Image Translation](https://openreview.net/pdf?id=5HLoTvVGDe)
 ### Image Segmentation <a name="9"></a>
   1. [Label-Efficient Semantic Segmentation with Diffusion Models](https://arxiv.org/abs/2112.03126)
   2. [SegDiff: Image Segmentation with Diffusion Probabilistic Models](https://arxiv.org/pdf/2112.00390.pdf)
@@ -241,6 +248,7 @@ Layout-to-image Generation](https://openaccess.thecvf.com/content/CVPR2023/paper
   26. [A Latent Space of Stochastic Diffusion Models for Zero-Shot Image Editing and Guidance](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_A_Latent_Space_of_Stochastic_Diffusion_Models_for_Zero-Shot_Image_ICCV_2023_paper.pdf)
   27. [Adding Conditional Control to Text-to-Image Diffusion Models](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_Adding_Conditional_Control_to_Text-to-Image_Diffusion_Models_ICCV_2023_paper.pdf)
   28. [FreeDoM: Training-Free Energy-Guided Conditional Diffusion Model](https://openaccess.thecvf.com/content/ICCV2023/papers/Yu_FreeDoM_Training-Free_Energy-Guided_Conditional_Diffusion_Model_ICCV_2023_paper.pdf)
+  29. [SinDDM: A Single Image Denoising Diffusion Model](https://proceedings.mlr.press/v202/kulikov23a/kulikov23a.pdf)
 ### Medical Image-to-Image Translation <a name="11"></a>
   1. [Unsupervised Medical Image Translation with Adversarial Diffusion Models](https://arxiv.org/pdf/2207.08208.pdf)
   2. [Unsupervised Denoising of Retinal OCT with Diffusion Probabilistic Model](https://arxiv.org/pdf/2201.11760.pdf)
@@ -279,7 +287,8 @@ Layout-to-image Generation](https://openaccess.thecvf.com/content/CVPR2023/paper
   15. [DreamPose: Fashion Video Synthesis with Stable Diffusion](https://openaccess.thecvf.com/content/ICCV2023/papers/Karras_DreamPose_Fashion_Video_Synthesis_with_Stable_Diffusion_ICCV_2023_paper.pdf)
   16. [The Power of Sound (TPoS): Audio Reactive Video Generation with Stable Diffusion](https://openaccess.thecvf.com/content/ICCV2023/papers/Jeong_The_Power_of_Sound_TPoS_Audio_Reactive_Video_Generation_with_ICCV_2023_paper.pdf)
   17. [Structure and Content-Guided Video Synthesis with Diffusion Models](https://openaccess.thecvf.com/content/ICCV2023/papers/Esser_Structure_and_Content-Guided_Video_Synthesis_with_Diffusion_Models_ICCV_2023_paper.pdf)
-  18. [Text2Video-Zero: Text-to-Image Diffusion Models are Zero-Shot Video Generators]()
+  18. [Text2Video-Zero: Text-to-Image Diffusion Models are Zero-Shot Video Generators](https://openaccess.thecvf.com/content/ICCV2023/papers/Khachatryan_Text2Video-Zero_Text-to-Image_Diffusion_Models_are_Zero-Shot_Video_Generators_ICCV_2023_paper.pdf)
+  19. [SinFusion: Training Diffusion Models on a Single Image or Video](https://proceedings.mlr.press/v202/nikankin23a/nikankin23a.pdf)
 ### Few-Shot Image Generation <a name="16"></a>
   1. [Few-Shot Diffusion Models](https://arxiv.org/abs/2205.15463)
 ### Counterfactual Explanations and Estimations <a name="17"></a>
@@ -386,6 +395,7 @@ brain activity](https://openaccess.thecvf.com/content/CVPR2023/papers/Takagi_Hig
 ### Out-of-Distribution Detection <a nav="32"></a>
   1. [DIFFGUARD: Semantic Mismatch-Guided Out-of-Distribution Detection Using Pre-Trained Diffusion Models](https://openaccess.thecvf.com/content/ICCV2023/papers/Gao_DIFFGUARD_Semantic_Mismatch-Guided_Out-of-Distribution_Detection_Using_Pre-Trained_Diffusion_Models_ICCV_2023_paper.pdf)
   2. [Deep Feature Deblurring Diffusion for Detecting Out-of-Distribution Objects](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_Deep_Feature_Deblurring_Diffusion_for_Detecting_Out-of-Distribution_Objects_ICCV_2023_paper.pdf)
+  3. [Unsupervised Out-of-Distribution Detection with Diffusion Inpainting](https://proceedings.mlr.press/v202/liu23bd/liu23bd.pdf)
 ### Image-to-Text Generation <a nav="33"></a>
   1. [DiffTAD: Temporal Action Detection with Proposal Denoising Diffusion](https://openaccess.thecvf.com/content/ICCV2023/papers/Nag_DiffTAD_Temporal_Action_Detection_with_Proposal_Denoising_Diffusion_ICCV_2023_paper.pdf)
 ### Quantization <a nav="34"></a>
