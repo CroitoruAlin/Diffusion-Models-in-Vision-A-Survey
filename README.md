@@ -289,6 +289,7 @@ Layout-to-image Generation](https://openaccess.thecvf.com/content/CVPR2023/paper
   17. [Structure and Content-Guided Video Synthesis with Diffusion Models](https://openaccess.thecvf.com/content/ICCV2023/papers/Esser_Structure_and_Content-Guided_Video_Synthesis_with_Diffusion_Models_ICCV_2023_paper.pdf)
   18. [Text2Video-Zero: Text-to-Image Diffusion Models are Zero-Shot Video Generators](https://openaccess.thecvf.com/content/ICCV2023/papers/Khachatryan_Text2Video-Zero_Text-to-Image_Diffusion_Models_are_Zero-Shot_Video_Generators_ICCV_2023_paper.pdf)
   19. [SinFusion: Training Diffusion Models on a Single Image or Video](https://proceedings.mlr.press/v202/nikankin23a/nikankin23a.pdf)
+  20. [Motion-aware generative frame interpolation](https://link.springer.com/article/10.1007/s11432-025-4920-3)
 ### Few-Shot Image Generation <a name="16"></a>
   1. [Few-Shot Diffusion Models](https://arxiv.org/abs/2205.15463)
 ### Counterfactual Explanations and Estimations <a name="17"></a>
